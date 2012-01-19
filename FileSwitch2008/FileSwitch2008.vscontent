@@ -1,0 +1,10 @@
+﻿<VSContent xmlns="http://schemas.microsoft.com/developer/vscontent/2005">
+  <Content>
+    <FileName>FileSwitch2008.Addin</FileName>
+    <FileName>FileSwitch2008.dll</FileName>
+    <DisplayName>FileSwitch2008</DisplayName>
+    <Description>Switch between related files.</Description>
+    <FileContentType>Addin</FileContentType>
+    <ContentVersion>2.0</ContentVersion>
+  </Content>
+</VSContent>
