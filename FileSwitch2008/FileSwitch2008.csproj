@@ -97,9 +97,7 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\..\..\Documents\Visual Studio 2008\Addins\FileSwitch2008 - For Testing.AddIn">
-      <Link>FileSwitch2008 - For Testing.AddIn</Link>
-    </Content>
+    <Content Include="FileSwitch2008 - For Testing.AddIn" />
     <Content Include="FileSwitch2008.AddIn" />
   </ItemGroup>
   <ItemGroup>
